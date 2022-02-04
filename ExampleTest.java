@@ -7,6 +7,6 @@ public class ExampleTest {
    public void testAdder(){
        int num1 = 1;
        int num2 = 2;
-       assertEquals(2, Example.adder(num1,num2));
+       assertEquals(3, Example.adder(num1,num2));
    } 
 }
